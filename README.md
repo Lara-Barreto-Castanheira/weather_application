@@ -14,7 +14,7 @@ Python libraries:
  - rich
 
 ## Steps
- - Install the required libraries:
+Install the required libraries:
  - import requests
  - from datetime import datetime
  - form rich import print
